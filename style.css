@@ -86,7 +86,8 @@ html {
 }
 
 .landingpage-body-right img {
-    width: 500px;
+    width: 590px;
+    border-radius: 150px;
 }
 
 .landingpage-body-left button {
